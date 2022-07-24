@@ -1,2 +1,2 @@
 # NotesApp-iOS
-Simple Note application using core data
+Simple iOS Note application using core data
